@@ -15,7 +15,7 @@ Llama AI yordamida mahalliy chat interfeysi. Bu loyiha Streamlit va mahalliy Lla
 
 1. **Loyihani klonlash**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/mustafoyev202/Llama_Chatbot
    cd Llama
    ```
 
